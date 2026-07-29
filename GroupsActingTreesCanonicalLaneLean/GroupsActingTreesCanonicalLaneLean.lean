@@ -1,0 +1,15 @@
+import GroupsActingTreesCanonicalLaneLean.AdmissibleClass
+import GroupsActingTreesCanonicalLaneLean.BridgeLemmas
+import GroupsActingTreesCanonicalLaneLean.GateLemmas
+import GroupsActingTreesCanonicalLaneLean.FinalTheorem
+import GroupsActingTreesCanonicalLaneLean.TreeStructure
+import GroupsActingTreesCanonicalLaneLean.GroupAction
+import GroupsActingTreesCanonicalLaneLean.EndpointClassification
+
+namespace HautevilleHouse
+namespace GroupsActingTreesCanonicalLaneLean
+
+-- Root module: imports all domain-specific layers
+
+end GroupsActingTreesCanonicalLaneLean
+end HautevilleHouse
